@@ -1,0 +1,12 @@
+.img-config {
+    padding: 7px;
+}
+
+.header-config {
+    background-color: rgb(255, 197, 88);
+    /* overflow-wrap: break-word; */
+}
+
+.b {
+    border: solid 1px black;
+}
